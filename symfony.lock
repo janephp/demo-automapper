@@ -1,4 +1,16 @@
 {
+    "doctrine/inflector": {
+        "version": "2.0.3"
+    },
+    "jane-php/automapper": {
+        "version": "v7.0.0"
+    },
+    "jane-php/automapper-bundle": {
+        "version": "v7.0.0"
+    },
+    "nikic/php-parser": {
+        "version": "v4.10.5"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
